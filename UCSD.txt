@@ -6,7 +6,11 @@ For me, it all started with science. Bill Nye the Science Guy and the Discovery 
 
 When I was fourteen, I took a summer class that channeled my love of science into medicine: an Introduction to Biomedical Sciences. I marveled at how viruses, with just a few strands of DNA or RNA, could wreak havoc in an entire organism; how my heart, which was only the size of my fist, pumped enough blood to fuel my entire body with oxygen and nutrients from food; and how my brain, just three pounds of whitish fat, stored all of my memories and coordinated all of the processes in my body. I clung to every word my teacher said and remembered every detail effortlessly. I felt like I was born to study human physiology and mechanisms of disease.
 
-During a break in one of our evening sessions, we were all playing frisbee outside when we suddenly heard a loud cry. My friend Zoe had been walking around on the grass barefoot and accidentally stepped on a bee! Despite my fear of bees, I rushed to her aid upon hearing her outburst. I was able to calm her down from her frantic jumping and crying. Fear in her eyes, even though she had never been stung. Realized it was actually because she had never been stung: it was a fear of the unknown and unfamiliar. looking her straight in the eye and asking her if I could check her foot for her. I carefully squeezed the stinger out of her foot, careful not to disturb the venom sac. At just fourteen years old, I aspired to be a doctor because I loved the science behind the human body, and I wanted to use my knowledge to understand and treat diseases.
+During a break in one of our evening sessions, we were all playing frisbee outside when we suddenly heard a series of loud cries. My friend Zoe was hopping on one foot, clutching her other leg; she had been walking around barefoot and stepped on a bee. I rushed to her aid upon hearing her distress. There was fear in her eyes: it was a fear of the unfamiliar. She had never been stung before. I immediately took action: from the first time I was stung, I remembered that my mom’s biggest immediate concern was whether I was allergic or not, so I turned to one of the other kids and asked her to get our teacher in case Zoe was allergic to bees. Then, I looked Zoe in the eye and asked her if I could look at her foot. My question seemed to calm her down. I leaned in and spotted the stinger, then removed it just like the bee farmer on the Discovery Channel had shown me--carefully pinching her skin, I squeezed the stinger out without disturbing the venom sac. 
+
+Zoe was my first patient.
+
+At just fourteen years old, I aspired to be a doctor because I loved the science behind the human body, and I wanted to use my knowledge to understand and treat diseases.
 
 The next summer, I set off for Johns Hopkins for three weeks to continue my pursuit of medical knowledge and study the most mysterious and magnificent part of the human body: the brain. And mysterious it was--by the end, I had learned so much about the functionality of individual neurons and the burden of neurological diseases, but the brain’s underlying mechanisms still remained a puzzle. Instead of being discouraged by our lack of understanding, however, I was excited that maybe I could explore these uncharted seas. So, rather than volunteering with my high school friends at the hospital, I chose to make my entrance into academia, taking a crack at the mechanisms behind learning and memory through research at UCI.
 
@@ -35,6 +39,7 @@ remember what it was like to be a patient. not only able to put myself in the pa
 Process of diagnosis - learned that it requires not only medical expertise, but also extensive knowledge of people and diverse backgrounds. Dr. L’s cultural literacy allowed him to ___. Suggestion of treatment - learned that part of the treatment occurs in the visit itself, and that treatment is a healing of the patient’s sense of violation.
 
 
+
 
 Scratch work
 
@@ -53,6 +58,7 @@ What made volunteering enjoyable?
 -always learning
 -after understanding some of people's real problems, from disease to money to family, I get the satisfaction of improving someone's life by helping to alleviate disease
 -the product of my efforts in volunteering gave me a different kind of satisfaction from the product of my efforts in lab. 
+
 
 
 
@@ -89,7 +95,7 @@ Science prong: got deep into fMRI neuroscience research. Published two papers, f
  
 Example of inadequate exp, unable to empathize because I lacked the personal experience (Arbor, bipolar? Diabetic woman?). Wanted to expand my horizons in terms of learning to work with people. While I cherished the feeling of helping another person, I realized that my experiences in the world were limited and that it affected my ability to relate to others’ experiences. I had never experienced poverty, or isolation, etc. I had no problems treating others the way I wanted to be treated, but … how did they want to be treated? How could I treat them to help them alleviate their stress, their sense of violation by a disease, or their depression? Was it possible for me to learn how to confront these difficult situations? There wasn’t exactly a class on what to do when….???
  
-Realized that academics was only half of my education, at most, and saw that the people around me provided the rest. I wanted to enrich my education more—so I went abroad, to try to learn another culture and language, to get lost,  ??? some transition into studying abroad.
+Realized that academics was only half of my education, at most, and saw that the people around me provided the rest. I wanted to enrich my education more—so I went abroad, to try to learn another culture and language, to get lost,  ??? some transition into studying abroad.
  
 Learned about difficulty of affording to eat well. Learned about not fitting in. Colorblindness.
  
@@ -104,6 +110,7 @@ Wrap up. Goals in academic medicine formed because of ??. Prepared because of ??
 
 
 clinical speculation? surgery observations; surgery turned out to be way less scientific and systematic than I thought. A lot of guesswork and on the spot determination of best course of action based on small details in biological variation, or patients’ wishes etc. Arbor experience - chinese lady, copper IUD. Diagnosis based not just on physical exam alone, but on cultural knowledge of patient’s background.
+
 
 
 
