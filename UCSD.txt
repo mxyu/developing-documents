@@ -4,19 +4,35 @@ UCSD
 
 For me, it all started with science. Bill Nye the Science Guy and the Discovery Channel babysat me every day after school for years, wowing me with awesome explanations for all types of scientific phenomena. I remember conducting my own ridiculous experiments in the kitchen when I was just tall enough to reach over the counter, soaking our leftover chicken bones in vinegar and checking their increasing pliability night after night. In summer, when my working parents couldn’t send me to school for the day, I ended up at summer camps where I amazed my arts and crafts teachers by creating mechanically functional, rubber band-powered, hand-held fans out of scrap paper and empty cans.
 
-When I was fourteen, I took a summer class that channeled my love of science into medicine: an Introduction to Biomedical Sciences. I marveled at how viruses, with just a few strands of DNA or RNA, could wreak havoc in an entire organism; how my heart, which was only the size of my fist, pumped enough blood to fuel my entire body with oxygen and nutrients from food; and how my brain, just three pounds of whitish fat, stored all of my memories and coordinated all of the processes in my body. I clung to every word my teacher said and remembered every detail effortlessly. I felt like I was born to study human physiology and mechanisms of disease.
-
-During a break in one of our evening sessions, we were all playing frisbee outside when we suddenly heard a series of loud cries. My friend Zoe was hopping on one foot, clutching her other leg; she had been walking around barefoot and stepped on a bee. I rushed to her aid upon hearing her distress. There was fear in her eyes: it was a fear of the unfamiliar. She had never been stung before. I immediately took action: from the first time I was stung, I remembered that my mom’s biggest immediate concern was whether I was allergic or not, so I turned to one of the other kids and asked her to get our teacher in case Zoe was allergic to bees. Then, I looked Zoe in the eye and asked her if I could look at her foot. My question seemed to calm her down. I leaned in and spotted the stinger, then removed it just like the bee farmer on the Discovery Channel had shown me--carefully pinching her skin, I squeezed the stinger out without disturbing the venom sac. 
-
-Zoe was my first patient.
-
-At just fourteen years old, I aspired to be a doctor because I loved the science behind the human body, and I wanted to use my knowledge to understand and treat diseases.
+When I was fourteen, I took a summer class that channeled my love of science into medicine: an Introduction to Biomedical Sciences. I marveled at how viruses, with just a few strands of DNA or RNA, could wreak havoc in an entire organism; how my heart, which was only the size of my fist, pumped enough blood to fuel my entire body with oxygen and nutrients from food; and how my brain, just three pounds of whitish fat, stored all of my memories and coordinated all of the processes in my body. I clung to every word my teacher said and remembered every detail effortlessly. At just fourteen years old, I aspired to be a doctor because I loved the science behind the human body, and I wanted to use my knowledge to understand and treat diseases.
 
 The next summer, I set off for Johns Hopkins for three weeks to continue my pursuit of medical knowledge and study the most mysterious and magnificent part of the human body: the brain. And mysterious it was--by the end, I had learned so much about the functionality of individual neurons and the burden of neurological diseases, but the brain’s underlying mechanisms still remained a puzzle. Instead of being discouraged by our lack of understanding, however, I was excited that maybe I could explore these uncharted seas. So, rather than volunteering with my high school friends at the hospital, I chose to make my entrance into academia, taking a crack at the mechanisms behind learning and memory through research at UCI.
 
 By the time I entered college, I was proficient in many molecular biology lab techniques, but I was no closer to finding out how the brain learns or makes memories. I was conflicted--while I really enjoyed research and still possessed my original passion for science, I wanted my research to make a real impact on medicine. I felt like my work was so far removed from medical practice that I wouldn't even make a scratch.
 
-I reevaluated my goals and branched out to the clinical side of medicine, looking for ways to get involved in the medical field in addition to research. While shadowing Dr. A, an orthopedic surgeon at Stanford Hospital, 
+I reevaluated my goals and branched out to the clinical side of medicine, looking for ways to get involved in the medical field in addition to research. I was handsomely rewarded—-I had the chance to help people face-to-face, something that I had missed out on in academia. In my first clinical experience as a Flu Crew volunteer, I accompanied a woman who was deathly afraid of needles through the entire vaccination process, providing conversation and emotional support and helping her face her fears. I admired her determination to protect herself and her loved ones from the flu, despite her fear, and gained great satisfaction from helping her overcome obstacles and achieve her goal. 
+
+At Arbor Free Clinic, I shadowed a visit with Paula, an elderly, slightly obese woman, who had high blood sugar levels bordering on requiring insulin shots. When the physician informed her about her diagnosis, she insisted that it was not possible that she had diabetes because nobody in her family had it, and that her blood sugar was only high because she had skipped breakfast. Paula was terribly misinformed about diabetes, and considering her lack of medical insurance and economic status, it was no wonder that she fought so hard to deny the diagnosis. Knowing that it would be extremely difficult for her to gain regular access to insulin shots, we discussed alternative, economic ways to control her diabetes through exercise and a regimented diet. The medical student who took her history and I carefully explained her condition to her in terms of how food and exercise would affect her body, and outlined an exercise routine and low-sugar diet for her. She eventually understood how her fasting blood sugar levels strongly indicated diabetes and embraced her food and exercise treatment, visibly relieved that she did not need to pay for insulin shots.
+
+Through shadowing physicians and volunteering to help people like the woman with (fear of needles) and Paula, I realized that nothing could replace the value in a personal connection in medicine. I learned that in addition to giving pharmaceutical treatments, medical practice could only succeed in treating people completely through active listening and an understanding of people’s situations and backgrounds, like Paula’s. Personally, I found that even though I lacked the medical expertise to treat patients' diseases, I had the power to heal patients emotionally, to comfort them when they most needed reassurance and to address and alleviate their personal concerns.
+
+My new understanding of how clinical practice complemented the biomedical science
+
+
+
+
+
+
+
+
+
+
+
+I realized that even though I lacked the medical expertise to treat patients' diseases, I had the power as a fellow human being to heal patients emotionally, to address and alleviate their concerns and to comfort them when they most needed reassurance. The 
+
+
+
+ 
 Flu crew-convincing people
 Arbor-diabetic woman
 Arbor-Chinese woman
@@ -28,10 +44,13 @@ Usvh-Al
 Sims-Janet, skin and bones, had part of her right clavicle removed, had remission of her cancer twice already. Was currently cancer free, came in for a checkup. Talked through her pains and worries, dr A assured her that they were normal and explained carefully so she wouldn't worry. It was clear she looked those things up and got a little paranoid/worked up. After dr a talked through each issue with her, she left looking relieved, happy even. Learned how therapeutic active listening could be for a patient--when they can be sure that you understand their worries from their perspective, 
 When dr A adjusted his 
 Sims-Laura, sitting up in bed, really aggressive. Been through a lot, described in gory detail. Trust issues--but dr a told her a little about himself, the origin of his name and its meaning, bringer of good news. She was superstitious
+-sims-radiology. liver biopsy of tumor
+-sims-radiology. 
 
 
+Before college, my experience with clinical medicine was only as a patient; I was the one seeking help from a doctor, someone whom I could trust intimately when I was most vulnerable. Now, as a volunteer, I was on the receiving end of that trust, and with that trust came a sense of great responsibility. I realized that even though I lacked the medical expertise to treat patients' diseases, I had the power as a fellow human being to heal patients emotionally, to address and alleviate their concerns and to comfort them when they most needed reassurance. 
 
-Before college, my experience with clinical medicine was only as a patient; I was the one seeking help from a doctor, someone whom I could trust intimately when I was most vulnerable. Now, as a volunteer, I was on the receiving end of that trust, and with that trust came a sense of great responsibility. I realized that even though I lacked the medical expertise to treat patients' diseases, I had the power as a fellow human being to heal patients emotionally, to address and alleviate their concerns and to comfort them when they most needed reassurance. I healed patients in a way that science could not. 
+I healed patients in a way that science could not. 
 
 My clinical experiences have taught me that doctors can heal patients with more than just science, that 
 
@@ -42,6 +61,14 @@ Process of diagnosis - learned that it requires not only medical expertise, but 
 
 
 Scratch work
+
+
+
+During a break in one of our evening sessions, our class was playing frisbee outside when we suddenly heard a series of loud cries. My friend Zoe was hopping on one foot, clutching her other leg; she had been walking around barefoot and stepped on a bee. I rushed to her aid upon hearing her distress. There was fear in her eyes: it was a fear of the unfamiliar. She had never been stung before. I immediately took action: from the first time I was stung, I remembered that my mom’s biggest immediate concern was whether I was allergic or not, so I turned to one of the other kids and asked her to get our teacher in case Zoe was allergic to bees. Then, I looked Zoe in the eye and asked her if I could look at her foot. My question calmed her down. I leaned in and spotted the stinger, then mimicked the bee farmer on the Discovery Channel--carefully pinching her skin, I squeezed the stinger out without disturbing the venom sac.
+
+Zoe was my first patient.
+
+
 
 Describe patient interaction in which I felt out of my depth, in which I was in adequately prepared to face a situation with a patient (bipolar? Listening. ) describe X factor that physician provides beyond a prescription or diagnosis 
 This was when I realized that scientific research could only do so much for real patients; while pharmaceuticals could cure certain diseases, there was no textbook remedy for healing someone emotionally. Science could carry medicine only so far.
